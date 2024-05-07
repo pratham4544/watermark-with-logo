@@ -1,3 +1,6 @@
+PyPDF2==2.1.0
+reportlab==4.2.0
 streamlit
-PyPDF2
-reportlab
+zipfile
+shutil
+os
